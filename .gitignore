@@ -173,3 +173,6 @@ cython_debug/
 
 # keys
 */keys.yaml
+
+# other
+*.mp3
